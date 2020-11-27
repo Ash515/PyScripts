@@ -19,9 +19,21 @@ def func_in():
     print(x)
 func_in()
 
+
 """
 output 20
 Because here we already declare x=10 to func_out() so there is no need to make that x as global in 
 func_in().
 """
+#globals()
+
+t= 100
+def func():
+    list_of_items = globals()
+    list_of_items["t"] = 15
+    t = 22
+    print("Local value of t is:", t)
+    print("The value of t is:", t)
+func()
+print("Change in the value of t is:", t)
 
