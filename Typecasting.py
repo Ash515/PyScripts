@@ -1,8 +1,0 @@
-print("To change the data type of data")
-int_data=int(input("Enter the integer data:"))
-dec_data=float(input("Enter the decimal data:"))
-int_str=str(int_data)
-print(int_str)
-dec_int=int(dec_data)
-print(dec_int)
-dec_str=str(dec_data)
