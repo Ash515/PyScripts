@@ -7,6 +7,12 @@ One great place to all pyscripts 👨‍💻👩‍💻
 
 <img src="python.jpg" width=600 height=350>
 
+## Installation
+
+Install python IDE
+- [python.org](https://www.python.org/)
+
+
 ## Contribution
 - Fork this repository .
 - Make pull requests with proper commit message.
