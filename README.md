@@ -5,5 +5,9 @@ One great place to all pyscripts 👨‍💻👩‍💻
 - Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. 
 - Python supports modules and packages, which encourages program modularity and code reuse.
 
-#How To Contribute
-- Fork this repository 
+<img src="python.png" width=600 height=350>
+
+## Contribution
+- Fork this repository .
+- Make pull requests with proper commit message.
+
