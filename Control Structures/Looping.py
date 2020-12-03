@@ -6,3 +6,11 @@ count=0
 for i in range(n):
     count=count+1
     print("The values are ,"count)
+
+#While
+#To print values
+n=int(input("Enter the velues to printing"))
+i=0
+while i<=n:
+    print("The values are ",i)
+  
