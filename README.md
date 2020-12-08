@@ -6,7 +6,7 @@ One great place to all pyscripts 👨‍💻👩‍💻
 - Python supports modules and packages, which encourages program modularity and code reuse.
 
 ## 💛 Prerequisites 
-- [python.org](https://www.python.org/)
+Python IDE install it by using this link [python.org](https://www.python.org/)
 
 ## 🚀&nbsp;Installation 
 1. Clone the repository 
