@@ -22,17 +22,17 @@ print(ans1)
 #2 solution
 ans2=Expenses[0]+Expenses[1]+Expenses[2]
 print(ans2)
-#3
+#3 solution
 for i in range(len(Expenses)):
     if(Expenses[i]==2000):
             print(i)
     else:
         pass
     
-#04
+#04 solution
 ans3=Expenses.insert(4,1980)
 print(Expenses)
-#05
+#05 solution
 ans4=Expenses[3]-200
 print(ans4)
 
