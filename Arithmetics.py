@@ -1,3 +1,4 @@
+#Arithmetics
 #Addition
 def add(a,b,c):
     d=a+b+c
