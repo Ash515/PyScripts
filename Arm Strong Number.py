@@ -1,3 +1,4 @@
+#Arm strong number
 print("To check wheather the given number is arm strong or not ")
 n=int(input("Enter the 3 digt values:"))
 val=[int(d) for d in str(n)]
