@@ -9,6 +9,8 @@ def grade(m1,m2,m3):
             print("B")
         else:
             print("C")
+    except NameError:
+        print("Somethong is not good")
     except:
         print("Sorry...please check your calculation")
 maths=int(input("Maths mark:"))
